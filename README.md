@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, my name is Alex
+![image](https://user-images.githubusercontent.com/126310621/223354564-8e15839a-4036-4589-9d4d-919551278353.png)
+
+My name is Viharev Alexander, I am a QA engineer⚙🧑‍💻.<br>
+Finding inconsistencies is my motto in life, searching for bugs is my way of life🤍
+
+I would be glad if you could have a look at my portfolio below 👉
+https://github.com/WhiteAleksandr/QA-portfolio.git
+
 
 <!--
 **WhiteAleksandr/WhiteAleksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
