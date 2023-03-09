@@ -1,12 +1,25 @@
 
 ![image](https://user-images.githubusercontent.com/126310621/223354564-8e15839a-4036-4589-9d4d-919551278353.png)
+### Приветсвую вас 
+Меня зовут Вихарев Александр, я QA инженер ⚙🧑‍💻<br>
+Поиск несоответствий - мой девиз по жизни, поиск ошибок - мой жизненый путь 🤍<br>
+
+Я буду рад, если вы посмотрите мое портфолио<br>
+https://github.com/WhiteAleksandr/QA-portfolio.git <br>
+
+По этой ссылке вы сможете увидеть мои сертификаты и дипломы об успешном окончании курсов<br>
+https://github.com/WhiteAleksandr/My-certificates/blob/main/README.md
+
+
 ### Hi there 👋
 My name is Viharev Alexander, I am a QA engineer⚙🧑‍💻.<br>
 Finding inconsistencies is my motto in life, searching for bugs is my way of life🤍
 
 I would be glad if you could have a look at my portfolio below 👉
-https://github.com/WhiteAleksandr/QA-portfolio.git
+https://github.com/WhiteAleksandr/QA-portfolio.git <br>
 
+Here you can see my diplomas and certificates of successful course completion👉
+https://github.com/WhiteAleksandr/My-certificates/blob/main/README.md
 ## My Skill Set  
 
 <div align="center">  
